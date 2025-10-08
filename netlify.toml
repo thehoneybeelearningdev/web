@@ -4,7 +4,7 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "https://thehoneybee-a1l6.onrender.com/api/:splat"
+  to = "https://web-uvt6.onrender.com/api/:splat"
   
   status = 200
   force = true
