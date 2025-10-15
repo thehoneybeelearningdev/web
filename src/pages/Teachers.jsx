@@ -47,6 +47,12 @@ const Teachers = () => {
           <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p7} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Mr.Sudharshan Vijay</div><div className="fst-italic text-muted">Programming Teacher</div></div></div>
           
           <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p1} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Surya</div><div className="fst-italic text-muted">English Teacher</div></div></div>
+          
+          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p1} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Suchitha</div><div className="fst-italic text-muted">Math Teacher</div></div></div>
+          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p1} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Karthika</div><div className="fst-italic text-muted">Math Teacher</div></div></div>
+          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p1} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Raghavardhini</div><div className="fst-italic text-muted">History Teacher</div></div></div>
+          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p1} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Swathiga</div><div className="fst-italic text-muted">English Teacher</div></div></div>
+          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p1} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Sivapriya</div><div className="fst-italic text-muted">Grammar Teacher</div></div></div>
         </div>
       </div>
     </div>
