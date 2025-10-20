@@ -41,9 +41,20 @@ const Teachers = () => {
           <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p4} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Mrs.Suma Aleya John</div><div className="fst-italic text-muted">English Teacher</div></div></div>
           <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p3} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Shameksha Raghavan</div><div className="fst-italic text-muted">English Teacher</div></div></div>
           <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p5} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Shalini ArunKumar</div><div className="fst-italic text-muted">Art & Handwriting Teacher</div></div></div>
-          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p6} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Mr.Dharun Kumar</div><div className="fst-italic text-muted">Computer Teacher (Basics)</div></div></div>
+          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p6} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Mr.Sudharsan</div><div className="fst-italic text-muted">Graphics Design Teacher</div></div></div>
           <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p7} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Mr.Sudharshan Vijay</div><div className="fst-italic text-muted">Programming Teacher</div></div></div>
-          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p1} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Azhagu Shalini</div><div className="fst-italic text-muted">Tamil Phonics Teacher</div></div></div>
+          
+          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p2} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Surya</div><div className="fst-italic text-muted">English Teacher</div></div></div>
+          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p2} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Azhagu Shalini</div><div className="fst-italic text-muted">Tamil Phonics Teacher</div></div></div>
+          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p2} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Suchitha</div><div className="fst-italic text-muted">Math Teacher</div></div></div>
+          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p2} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Karthika</div><div className="fst-italic text-muted">Math Teacher</div></div></div>
+          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p2} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Raghavardhini</div><div className="fst-italic text-muted">History Teacher</div></div></div>
+          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p2} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Swathiga</div><div className="fst-italic text-muted">English Teacher</div></div></div>
+          <div className="col p-3"><div className="item text-center"><div className="image position-relative"><img src={p2} className="img-fluid w-100 rounded-circle" alt="img" /></div><div className="fw-bold my-3 h4">Ms.Sivapriya</div><div className="fst-italic text-muted">Grammar Teacher</div></div></div>
+        
+        
+        
+        
         </div>
       </div>
     </div>
